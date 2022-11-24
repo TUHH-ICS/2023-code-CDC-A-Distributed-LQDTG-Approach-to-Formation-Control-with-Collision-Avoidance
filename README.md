@@ -6,7 +6,7 @@ This repository contains an implementation of the algorithms and simulations des
 > Prima Aditya and Herbert Werner, "A Distributed Linear Quadratic Discrete-Time Game Approach to Multi-Agent Formation with Collision Avoidance" submitted for ECC 2023
 
 ## Simulation
-The main code `ecc2023.m` contains everything in one file with additional functions
+The main code `ecc2023.m` contains everything in one file with additional functions:
 - `sig.m` to compute the norm approximation
 - `zoom_plot.m` for zooming window 
 
