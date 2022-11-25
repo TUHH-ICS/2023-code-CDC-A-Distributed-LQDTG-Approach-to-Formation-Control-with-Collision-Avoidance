@@ -1,5 +1,5 @@
 [![DOI](]() Add to Citavi project by DOI
-# 2022-code-CDC-A-Distributed-Linear-Quadratic-Discrete-Time-Game-Approach-to-Multi-Agent-Formation-with-Collision-Avoidance
+# 2022-code-CDC-A-Distributed-Linear-Quadratic-Discrete-Time-Game-Approach-to-Formation-Control-with-Collision-Avoidance
 
 ## General
 This repository contains an implementation of the algorithms and simulations described in 
