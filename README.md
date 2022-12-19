@@ -1,5 +1,5 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7362591.svg)](https://doi.org/10.5281/zenodo.7362591)
-# 2022-code-CDC-A-Distributed-Linear-Quadratic-Discrete-Time-Game-Approach-to-Formation-Control-with-Collision-Avoidance
+# A Distributed Linear Quadratic Discrete-Time Game Approach to Formation Control with Collision Avoidance
 
 ## General
 This repository contains an implementation of the algorithms and simulations described in 
