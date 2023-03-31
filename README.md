@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7362591.svg)](https://doi.org/10.5281/zenodo.7362591)
+[![DOI]]()
 # A Distributed Linear Quadratic Discrete-Time Game Approach to Formation Control with Collision Avoidance
 
 ## General
