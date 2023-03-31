@@ -9,7 +9,8 @@ This repository contains an implementation of the algorithms and simulations des
 The main code `main.m` contains everything in one file with additional functions:
 - `sig.m` to compute the sigma-norm 
 - `zoom_plot.m` for zooming window 
-- To plot the formation without collision avoidance, go to
+
+To plot the formation without collision avoidance, go to
 `unconstrained.m`
 
 This distributed framework based on iterative-scheme of steepest descent method. In this case, we took four vertices and five edges as an example. 
